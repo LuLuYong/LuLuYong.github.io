@@ -2,63 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1268bd5-e52c-4d67-a93b-4a64e8cd3191" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/8.c76151e693a8dcd5dbd0.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.6847ad050069791f2bf4e47f413d49f9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.6847ad050069791f2bf4e47f413d49f9.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/0.7b6bbc047c46376d6f40.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/0.7b6bbc047c46376d6f40.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/1.236a30fa98f78a17c815.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/1.236a30fa98f78a17c815.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/10.b8c536dda45a5c26ad23.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/10.b8c536dda45a5c26ad23.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/11.f6beaba654edac91d55a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/11.f6beaba654edac91d55a.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/12.5c4a8c782920f7cb378a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/12.5c4a8c782920f7cb378a.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/13.cc7bd569db7eca20c95d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/13.cc7bd569db7eca20c95d.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/14.b3b7595f1cea88e849e3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/14.b3b7595f1cea88e849e3.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/15.2baa632a50b411d776ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/15.2baa632a50b411d776ca.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/16.a04b7f3e2d0e5f8db011.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/16.a04b7f3e2d0e5f8db011.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/17.7825b88146ddb9cae44f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/17.7825b88146ddb9cae44f.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/18.b02b3784de786a1a1c3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/18.b02b3784de786a1a1c3d.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/19.1bfc24ab361f5d37aa0c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/19.1bfc24ab361f5d37aa0c.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/2.616e9a63cd0b30446202.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/2.616e9a63cd0b30446202.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/20.34c7bc3039f644f85f4e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/20.34c7bc3039f644f85f4e.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/21.7ab57d9c2c920881b14a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/21.7ab57d9c2c920881b14a.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/22.2a35f667860410202cb3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/22.2a35f667860410202cb3.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/23.84d364c4549ac8afead7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/23.84d364c4549ac8afead7.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/3.ad85861e8ab725f131cc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/3.ad85861e8ab725f131cc.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/4.9a7f3c6000487b07127d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/4.9a7f3c6000487b07127d.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/5.4baf9a82ef803a2553d2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/5.4baf9a82ef803a2553d2.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/6.29e9fb5fc8f538a60a59.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/6.29e9fb5fc8f538a60a59.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/7.59c5f16cf28494f5d2c3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/7.59c5f16cf28494f5d2c3.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/8.c76151e693a8dcd5dbd0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/9.10adf06558d364293028.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/9.10adf06558d364293028.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.7c3cd4614a9681a61185.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.7c3cd4614a9681a61185.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.e89892eb300b6fd0614a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.e89892eb300b6fd0614a.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.7f55a02c6ac924a221c5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.7f55a02c6ac924a221c5.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/android-chrome-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/android-chrome-512x512.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/apple-touch-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/apple-touch-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/apple-touch-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/apple-touch-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/apple-touch-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/msapplication-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/mstile-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.1d063bc0cd301699760e884e1e4c3379.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons/safari-pinned-tab.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.14765ad6bb5858e281d8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.14765ad6bb5858e281d8.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.3ad1d5771e9b13dbdad2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.3ad1d5771e9b13dbdad2.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.975b61c63e8143b11689.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.975b61c63e8143b11689.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/manifest.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/app.6847ad050069791f2bf4e47f413d49f9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/app.6847ad050069791f2bf4e47f413d49f9.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/app.8c618ded09db6dffb41f58ba92b3590d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/app.8c618ded09db6dffb41f58ba92b3590d.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/cssinit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/prism.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/fonts/element-icons.6f0a763.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/0.7b6bbc047c46376d6f40.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/0.7b6bbc047c46376d6f40.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/0.b93540501d6e310cd74f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/0.b93540501d6e310cd74f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/1.1bde64e375558904fcff.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/1.1bde64e375558904fcff.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/1.236a30fa98f78a17c815.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/1.236a30fa98f78a17c815.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/10.b8c536dda45a5c26ad23.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/10.b8c536dda45a5c26ad23.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/11.f6beaba654edac91d55a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/11.f6beaba654edac91d55a.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/12.5c4a8c782920f7cb378a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/12.5c4a8c782920f7cb378a.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/13.cc7bd569db7eca20c95d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/13.cc7bd569db7eca20c95d.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/14.b3b7595f1cea88e849e3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/14.b3b7595f1cea88e849e3.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/15.2baa632a50b411d776ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/15.2baa632a50b411d776ca.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/16.a04b7f3e2d0e5f8db011.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/16.a04b7f3e2d0e5f8db011.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/17.7825b88146ddb9cae44f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/17.7825b88146ddb9cae44f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/18.b02b3784de786a1a1c3d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/18.b02b3784de786a1a1c3d.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/19.1bfc24ab361f5d37aa0c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/19.1bfc24ab361f5d37aa0c.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/2.616e9a63cd0b30446202.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/2.616e9a63cd0b30446202.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/2.afa42d4063d967e1e850.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/2.afa42d4063d967e1e850.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/20.34c7bc3039f644f85f4e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/20.34c7bc3039f644f85f4e.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/21.7ab57d9c2c920881b14a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/21.7ab57d9c2c920881b14a.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/22.2a35f667860410202cb3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/22.2a35f667860410202cb3.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/23.84d364c4549ac8afead7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/23.84d364c4549ac8afead7.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/3.821649f74db45a96e278.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/3.821649f74db45a96e278.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/3.ad85861e8ab725f131cc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/3.ad85861e8ab725f131cc.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/4.7efe32b0c307e2f3a2a9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/4.7efe32b0c307e2f3a2a9.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/4.9a7f3c6000487b07127d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/4.9a7f3c6000487b07127d.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/5.4baf9a82ef803a2553d2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/5.4baf9a82ef803a2553d2.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/5.650aa83c03e43fa264de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/5.650aa83c03e43fa264de.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/6.29e9fb5fc8f538a60a59.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/6.29e9fb5fc8f538a60a59.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/6.d13d35767cc2f03d260d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/6.d13d35767cc2f03d260d.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/7.59c5f16cf28494f5d2c3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/7.59c5f16cf28494f5d2c3.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/8.c76151e693a8dcd5dbd0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/8.c76151e693a8dcd5dbd0.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/9.10adf06558d364293028.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/9.10adf06558d364293028.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.7c3cd4614a9681a61185.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.7c3cd4614a9681a61185.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.7e3fac3357880013a27f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/app.7e3fac3357880013a27f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.e89892eb300b6fd0614a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.e89892eb300b6fd0614a.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.f136d70123deba38137c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/manifest.f136d70123deba38137c.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/prism.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/vendor.7f55a02c6ac924a221c5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/vendor.7f55a02c6ac924a221c5.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/vendor.98da7b080b6cb60924d3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/vendor.98da7b080b6cb60924d3.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/svg/zhankai.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -72,12 +124,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="0.7b6bbc047c46376d6f40.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/js/0.7b6bbc047c46376d6f40.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.14765ad6bb5858e281d8.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/js/app.14765ad6bb5858e281d8.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="0" column="10513" lean-forward="false" selection-start-line="0" selection-start-column="10513" selection-end-line="0" selection-end-column="10513" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,8 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,28 +173,12 @@
               <item name="LuLuYong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="LuLuYong.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LuLuYong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LuLuYong.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LuLuYong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LuLuYong.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LuLuYong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LuLuYong.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="0.7b6bbc047c46376d6f40.js" type="620a8d5e:NestingTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,10 +186,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/static/css" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,16 +219,17 @@
       <workItem from="1523267337739" duration="796000" />
       <workItem from="1523328968697" duration="1453000" />
       <workItem from="1528366023890" duration="445000" />
+      <workItem from="1529553442199" duration="91000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2694000" />
+    <option name="totallyTimeSpent" value="2785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="920" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -221,6 +258,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/js/0.7b6bbc047c46376d6f40.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -246,6 +291,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="0" column="10513" lean-forward="false" selection-start-line="0" selection-start-column="10513" selection-end-line="0" selection-end-column="10513" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/static/js/app.14765ad6bb5858e281d8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.14765ad6bb5858e281d8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
